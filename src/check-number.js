@@ -4,7 +4,7 @@
 // WhatsApp number verification script using 2Chat's public API
 // 
 // Author: 2Chat Team <support@2chat.co>
-// For information at:
+// More information at:
 //     - https://github.com/2ChatCo/whatsapp-number-checker
 //     - https://developers.2chat.co/docs/API/WhatsApp/check-number
 //  
