@@ -6,6 +6,9 @@ It takes as input a CSV file containing the numbers to check, and it outputs ano
 
 For more information about the API in use here, please check [2Chat's developer portal](https://developers.2chat.co/docs/API/WhatsApp/check-number/?ref=gh).
 
+> [!NOTE]
+> This is the programmatic and fastest way of checking WhatsApp numbers. For a non-programmatic option, please check out our [bulk verifier app](https://help.2chat.io/en/articles/8073336-how-to-bulk-verify-if-numbers-have-a-whatsapp-account).
+
 ## Requisites
 
 * A 2Chat account. You can create one [here](https://app.2chat.io/signup).
