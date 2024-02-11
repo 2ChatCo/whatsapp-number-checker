@@ -120,7 +120,8 @@ function verifyNumberAndSave(numberToVerify, csvWriter) {
         method: 'GET',
         url:    `https://api.p.2chat.io/open/whatsapp/check-number/${args.number}/${numberToVerify}`,
         headers: { 
-            'X-User-API-Key': process.env.API_KEY
+            'X-User-API-Key': process.env.API_KEY,
+            'User-Agent': '2Chat Bulk Verifier'
         }
     };
 
