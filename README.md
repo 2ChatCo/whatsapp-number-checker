@@ -9,6 +9,9 @@ For more information about the API in use here, please check [2Chat's developer 
 > [!NOTE]
 > This is the programmatic and fastest way of checking WhatsApp numbers. For a non-programmatic option, please check out our [bulk verifier app](https://help.2chat.io/en/articles/8073336-how-to-bulk-verify-if-numbers-have-a-whatsapp-account).
 
+> [!TIP]
+> The script defaults to waiting 5 seconds between each check to prevent being throttled by the API. If you have a paid subscription with 2Chat, you can lower value time to 1 second.
+
 ## Requisites
 
 * A 2Chat account. You can create one [here](https://app.2chat.io/signup).
